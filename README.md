@@ -17,4 +17,4 @@ How-to (Using STM32CubeIDE):
 
 Hope this lib will solve all your UART problems.
 
-Commented soure code is available in PDF version here: https://www.thundertronics.com/STM010_-_STM32_UART_DMA_rs232_485_for_any_STM32_series_using_STM32CubeIDE_HAL.html
+Commented soure code is available in PDF version here: https://www.thundertronics.com/STM32_UART_Library.html
