@@ -17,4 +17,5 @@ How-to (Using STM32CubeIDE):
 
 Hope this lib will solve all your UART problems.
 
-Commented soure code is available in PDF version here: https://www.thundertronics.com/STM32_UART_Library.html
+Commented soure code is available in PDF version here: 
+https://www.basictech.io/STM32_UART_Library.html
