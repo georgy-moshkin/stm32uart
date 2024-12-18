@@ -16,6 +16,3 @@ How-to (Using STM32CubeIDE):
 9. Use UART_Read() / UART_Write()
 
 Hope this lib will solve all your UART problems.
-
-Commented soure code is available in PDF version here: 
-https://www.basictech.io/STM32_UART_Library.html
